@@ -3,7 +3,7 @@
 ## Special Instructions
 When compiling this firmware the only error I encountered was around u8glib missing. I resolved this in the arduino (1.8.7) IDE by going to "tools -> manage libraries" and installing U8glib by Oliver Version 1.19.1
 
-##Based On
+## Based On
 https://github.com/MarlinFirmware/Configurations/tree/release-2.0.9.3/config/examples/Wanhao/Duplicator%20i3%202.1
 And
 https://reprap.org/forum/read.php?415,809741
