@@ -1,4 +1,4 @@
-#Marlin 2.x Configuration files for the Monoprice Maker Select V2
+# Marlin 2.x Configuration files for the Monoprice Maker Select V2
 
 ## Special Instructions
 When compiling this firmware the only error I encountered was around u8glib missing. I resolved this in the arduino (1.8.7) IDE by going to "tools -> manage libraries" and installing U8glib by Oliver Version 1.19.1
